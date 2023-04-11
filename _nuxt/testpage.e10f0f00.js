@@ -1,0 +1,1 @@
+import{a as t,b as a,e as n,f as o,F as c,o as s,h as r}from"./entry.85c205dd.js";const _={};function p(f,m){const e=r;return s(),a(c,null,[n(" testpage "),o(e)],64)}const u=t(_,[["render",p]]);export{u as default};
